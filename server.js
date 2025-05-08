@@ -12,7 +12,7 @@ const app = express();
 
 // ✅ CORS Configuration (Correct Placement and Setup)
 const corsOptions = {
-  origin: 'https://tech-forcingfrnt.vercel.app/',
+  origin: 'https://techfront.vercel.app/',
 //   origin: [
 //     'https://tech-forcingfrnt.vercel.app' , // Deployed frontend
 //   'http://localhost:5173',                // Local dev   
